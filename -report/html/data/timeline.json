@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "USER-20181212QE",
+    "children" : [ {
+      "name" : "10424-MainThread",
+      "children" : [ {
+        "name" : "test_contact.TestContact.test_contact1[args0]",
+        "uid" : "b7ac8742741e90ff",
+        "parentUid" : "58ee278b9dac094fa7d894eb903da02e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1583323510979,
+          "stop" : 1583323511032,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_contact.TestContact.test_contact1[args1]",
+        "uid" : "ddac8b4518ddf89e",
+        "parentUid" : "58ee278b9dac094fa7d894eb903da02e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1583323511090,
+          "stop" : 1583323511096,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "58ee278b9dac094fa7d894eb903da02e"
+    } ],
+    "uid" : "516745b7e174d11ce0efd8547f38518c"
+  } ]
+}
